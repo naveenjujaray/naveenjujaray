@@ -1,4 +1,3 @@
-${naveenjujaray}.${naveenjujaray}
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=naveenjujaray.naveenjujaray)
 # Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻
 
