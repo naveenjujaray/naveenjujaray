@@ -1,3 +1,5 @@
+${naveenjujaray}.${naveenjujaray}
+![visitors](https://visitor-badge.glitch.me/badge?page_id=naveenjujaray.naveenjujaray)
 # Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻
 
 <img src="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.png?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator.">
