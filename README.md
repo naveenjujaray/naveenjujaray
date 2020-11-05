@@ -16,4 +16,4 @@ I'm a computer science engineer who is passionate about making open-source more 
 - Sharing updates on <a href="https://naveenjujaray.js.org">naveenjujaray.js.org</a> 📹 ✍🏼
 - Contact me on <a href="https://www.linkedin.com/in/naveenjujaray/">LinkedIn</a> 💼
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenjujaray&layout=compact)
