@@ -1,6 +1,6 @@
 # Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻
 
-<a href="https://www.buymeacoffee.com/naveenjujaray" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/naveenjujaray" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px ;width: 174px ;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <img src="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.png?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator.">
 I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include Flutter, Jekyll and Node.js.
