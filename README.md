@@ -1,4 +1,4 @@
-# Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻  [![Buy me coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/naveenjujaray)
+# Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻  [![Buy me coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-orange)](https://www.buymeacoffee.com/naveenjujaray)
 
 <img src="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.png?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator.">
 I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include Flutter, Jekyll and Node.js.
