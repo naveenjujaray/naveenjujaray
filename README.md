@@ -15,3 +15,5 @@ I'm a computer science engineer who is passionate about making open-source more 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://naveenjujaray.js.org">naveenjujaray.js.org</a> 📹 ✍🏼
 - Contact me on <a href="https://www.linkedin.com/in/naveenjujaray/">LinkedIn</a> 💼
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
