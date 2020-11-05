@@ -1,4 +1,4 @@
-# Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻  ![](https://gitwar.herokuapp.com/badge?username=naveenjujaray&style=plastic)
+# Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻
 
 <img src="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.png?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator.">
 I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include Flutter, Jekyll and Node.js.
