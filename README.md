@@ -1,7 +1,6 @@
 # Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="naveenjujaray" data-color="#FFDD00" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a Beer" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" >
-</script>
+<a href="https://www.buymeacoffee.com/naveenjujaray" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <img src="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.png?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator.">
 I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include Flutter, Jekyll and Node.js.
