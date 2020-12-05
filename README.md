@@ -7,9 +7,9 @@ I'm a computer science engineer who is passionate about making open-source more 
 <!-- BLOG-POST-LIST:START -->
 - [Tell me interesting things about flutter.](https://dev.to/naveenjujaray/tell-me-interesting-things-about-flutter-4n4d)
 - [Adaptive Theme on Flutter](https://dev.to/naveenjujaray/adaptive-theme-on-flutter-5960)
+- [Adaptive Theme on Flutter](https://naveenjujaray.js.org/flutter-adaptive-theme)
 - [I'm building a Flutter OCR app](https://dev.to/naveenjujaray/i-m-building-a-flutter-ocr-app-dnb)
 - [Suggestion about Mini Project](https://dev.to/naveenjujaray/suggestion-about-mini-project-4kj3)
-- [Walls — Ad Free Wallpapers a Flutter App](https://dev.to/naveenjujaray/walls-ad-free-wallpapers-a-flutter-app-27hg)
 <!-- BLOG-POST-LIST:END -->
 
 ## Find me around the web 🌎:
