@@ -6,10 +6,10 @@ I'm a computer science engineer who is passionate about making open-source more 
 ## Latest Blog Posts ✍🏻:
 <!-- BLOG-POST-LIST:START -->
 - [Tailwind Css ????](https://naveenjujaray.js.org/tailwindcsswhat)
-- [Tell me interesting things about flutter.](https://dev.to/naveenjujaray/tell-me-interesting-things-about-flutter-4n4d)
-- [Adaptive Theme on Flutter](https://dev.to/naveenjujaray/adaptive-theme-on-flutter-5960)
 - [Adaptive Theme on Flutter](https://naveenjujaray.js.org/flutter-adaptive-theme)
-- [I'm building a Flutter OCR app](https://dev.to/naveenjujaray/i-m-building-a-flutter-ocr-app-dnb)
+- [Responsive Layout for Flutter Web 💻➡️🖥➡️📱➡️⌚️](https://naveenjujaray.js.org/flutterweb-responsivelayout)
+- [🧰 50 Developer tools to make your life a little easier](https://naveenjujaray.js.org/50-things-for-developers)
+- [Flutter for Web](https://naveenjujaray.js.org/flutter-web-install)
 <!-- BLOG-POST-LIST:END -->
 
 ## Find me around the web 🌎:
