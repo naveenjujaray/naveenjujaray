@@ -1,7 +1,7 @@
 # Hi, I'm Naveen Jujaray 👋🏼 👨🏻‍💻  [![Buy me coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-donate-orange)](https://www.buymeacoffee.com/naveenjujaray)
 
 <img src="https://github.com/naveenjujaray/naveenjujaray/blob/master/cropped.jpg?raw=true" alt="banner that says Naveen Jujaray - software engineer, content creator.">
-I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include Flutter, Jekyll and Node.js.
+I'm passionate about turning data into insights that help businesses make better decisions during the day. I also enjoy designing and building progressive web apps that provide a great user experience in the night and also i'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with include Flutter, Python, SQL, Jekyll, React.js and Node.js.
 
 ## Latest Blog Posts ✍🏻:
 <!-- BLOG-POST-LIST:START -->
