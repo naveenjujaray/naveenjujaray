@@ -5,11 +5,11 @@ I'm passionate about turning data into insights that help businesses make better
 
 ## Latest Blog Posts ✍🏻:
 <!-- BLOG-POST-LIST:START -->
-- [Tell me interesting things about flutter.](https://dev.to/naveenjujaray/tell-me-interesting-things-about-flutter-4n4d)
-- [Adaptive Theme on Flutter](https://dev.to/naveenjujaray/adaptive-theme-on-flutter-5960)
-- [I&#39;m building a Flutter OCR app](https://dev.to/naveenjujaray/i-m-building-a-flutter-ocr-app-dnb)
-- [Suggestion about Mini Project](https://dev.to/naveenjujaray/suggestion-about-mini-project-4kj3)
-- [Walls — Ad Free Wallpapers a Flutter App](https://dev.to/naveenjujaray/walls-ad-free-wallpapers-a-flutter-app-27hg)
+- [Beginner’s guide to Google Analytics](https://naveenjujaray.medium.com/things-to-know-about-google-analytics-beginners-guide-e081e6a69a5d?source=rss-c7c41032b836------2)
+- [Free Data Analytics Courses You Must Know in 2021](https://naveenjujaray.medium.com/free-data-analytics-courses-you-must-know-in-2021-a6a83e39cc1d?source=rss-c7c41032b836------2)
+- [Data Scientist vs Data Engineer vs Data Analyst vs Data Architect](https://naveenjujaray.medium.com/data-scientist-vs-data-engineer-vs-data-analyst-vs-data-architect-4f3343763300?source=rss-c7c41032b836------2)
+- [Data Scientist vs Data Engineer vs Data Analyst vs Data Architect](https://naveenjujaray.js.org/datavsdata)
+- [Tailwind Css ????](https://naveenjujaray.js.org/tailwindcsswhat)
 <!-- BLOG-POST-LIST:END -->
 
 ## Find me around the web 🌎:
