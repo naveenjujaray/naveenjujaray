@@ -5,11 +5,11 @@ I'm passionate about turning data into insights that help businesses make better
 
 ## Latest Blog Posts ✍🏻:
 <!-- BLOG-POST-LIST:START -->
+- [Power BI as Code: How I Automated Bookmark Filter Updates with 150 Lines of Python and the New PBIR…](https://naveenjujaray.medium.com/power-bi-as-code-how-i-automated-bookmark-filter-updates-with-150-lines-of-python-and-the-new-pbir-fe275cd698c9?source=rss-c7c41032b836------2)
 - [Building a Cross-Model Reconciliation Framework: Import vs Direct Query vs Snowflake vs Fabric AI…](https://naveenjujaray.medium.com/building-a-cross-model-reconciliation-framework-import-vs-direct-query-vs-snowflake-vs-fabric-ai-ef3840a1afdc?source=rss-c7c41032b836------2)
 - [Unlock the Power of M Language in Power BI!](https://naveenjujaray.medium.com/unlock-the-power-of-m-language-in-power-bi-1b2dafdabbf1?source=rss-c7c41032b836------2)
 - [Introducing AI-Powered Power BI Report Generation](https://naveenjujaray.medium.com/revolutionizing-business-intelligence-introducing-ai-powered-power-bi-report-generation-9ef4c53a34fd?source=rss-c7c41032b836------2)
 - [Beginner’s guide to Google Analytics](https://naveenjujaray.medium.com/things-to-know-about-google-analytics-beginners-guide-e081e6a69a5d?source=rss-c7c41032b836------2)
-- [Free Data Analytics Courses You Must Know in 2021](https://naveenjujaray.medium.com/free-data-analytics-courses-you-must-know-in-2021-a6a83e39cc1d?source=rss-c7c41032b836------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Find me around the web 🌎:
